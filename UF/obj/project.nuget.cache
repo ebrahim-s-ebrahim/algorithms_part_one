@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JaJZ2PH3UiWaUIrsVjv/T1UOniitNvuGNWmqJhtGBDkvou1QMIhrMFuD5Uwaj58+TIQAe7SHbWorQewe2jq+GQ==",
+  "success": true,
+  "projectFilePath": "/home/ebrahim/playground/algorithms_part_one/UF/UF.csproj",
+  "expectedPackageFiles": [
+    "/home/ebrahim/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

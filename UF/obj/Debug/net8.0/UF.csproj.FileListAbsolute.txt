@@ -1,0 +1,14 @@
+/home/ebrahim/playground/algorithms_part_one/UF/bin/Debug/net8.0/UF
+/home/ebrahim/playground/algorithms_part_one/UF/bin/Debug/net8.0/UF.deps.json
+/home/ebrahim/playground/algorithms_part_one/UF/bin/Debug/net8.0/UF.runtimeconfig.json
+/home/ebrahim/playground/algorithms_part_one/UF/bin/Debug/net8.0/UF.dll
+/home/ebrahim/playground/algorithms_part_one/UF/bin/Debug/net8.0/UF.pdb
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/UF.GeneratedMSBuildEditorConfig.editorconfig
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/UF.AssemblyInfoInputs.cache
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/UF.AssemblyInfo.cs
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/UF.csproj.CoreCompileInputs.cache
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/UF.dll
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/refint/UF.dll
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/UF.pdb
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/UF.genruntimeconfig.cache
+/home/ebrahim/playground/algorithms_part_one/UF/obj/Debug/net8.0/ref/UF.dll
